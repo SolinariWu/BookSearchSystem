@@ -10,6 +10,7 @@
 3.需有書名，作者，出版社，類型，售價。
 
 4.類型共有科技，小說，商管，歷史，文學，其他共6類，須以enum或類似的方法來表示
+
 - 設計
 - 
 ![image] (https://github.com/WuChengYu/Systems-Analysis-and-Design/blob/master/%E5%AF%A6%E5%81%9A%E7%B7%B4%E7%BF%921-%E6%9B%B8%E7%B1%8D%E6%9F%A5%E8%A9%A2%E7%B3%BB%E7%B5%B1/Design-2.gif)
